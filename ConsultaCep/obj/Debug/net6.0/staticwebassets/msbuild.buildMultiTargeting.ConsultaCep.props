@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ConsultaCep.props" />
+</Project>
